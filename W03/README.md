@@ -63,7 +63,7 @@ ans =
 ```
 
 **The numeric answer is located in X(2,2), wtf?**
-
+**The left bottom corner is X(0,0), so X(1,2)is the second row from the bottom and the third column from the left.  **
 #Question 6
 A 4×4 pixel image x(n<sub>1</sub>,n<sub>2</sub>) is depicted below. Denote by X(k<sub>1</sub>,k<sub>2</sub>) the 4×4 point DFT of x(n<sub>1</sub>,n<sub>2</sub>). Calculate X(0,0) ![](W03Q06IMG00.png)
 
