@@ -7,7 +7,7 @@ Attempts: 100
 Which of the following options is not considered a stochastic restoration approach?
 
 **[-]** Wiener filter  
-**[-]** Constrained least-squares filter  
+**[X]** Constrained least-squares filter  
 **[-]** Maximum likelihood estimation  
 **[-]** Maximum a posteriori estimation  
 
@@ -16,7 +16,7 @@ Which of the following describes the "orthogonality principle" of Wiener filter?
 
 **[-]** E[f(i,j)−f&#770;(i,j)]=0  
 **[-]** E[f(i,j)−y(i,j)]=0  
-**[-]** E[(f(i,j)−f&#770;(i,j))y<sup>∗</sup>(k,l)]=0   
+**[X]** E[(f(i,j)−f&#770;(i,j))y<sup>∗</sup>(k,l)]=0   
 **[-]** E[(f(i,j)−y(i,j))f&#770;<sup>∗</sup>(k,l)]=0    
 
 
@@ -24,7 +24,7 @@ Which of the following describes the "orthogonality principle" of Wiener filter?
 (True/False) In general, the constrained least-squares restoration filter has better performance than the Wiener restoration filter.
 
 **[-]** True  
-**[-]** False  
+**[X]** False  
 
 
 #Question 4
@@ -32,7 +32,7 @@ In the Bayesian formulation, if p(f) denotes the image prior distribution, p(y|f
 
 **[-]** the joint distribution  
 **[-]** the likelihood  
-**[-]** the posterior distribution  
+**[X]** the posterior distribution  
 **[-]** the prior distribution  
 
 
